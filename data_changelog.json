@@ -1,12 +1,12 @@
 [
    {
       "tanggal":"21/03/2020",
-      "versi":"v1.1",
-      "deskripsi":"- Penambahan map view & statistik semua wilayah negara\n- Penambahan data perprovinsi seluruh indonesia\n- Update sumber data api"
+      "versi":"v1.0",
+      "deskripsi":"- Penambahan map view & statistik semua wilayah negara\n- Penambahan menu data statistik perprovinsi di indonesia\n- Penambahan fitur pengecekan & update otomatis\n- Pembaharuan sumber data api"
    },
    {
       "tanggal":"19/03/2020",
-      "versi":"v1.0",
+      "versi":"demo",
       "deskripsi":"First release"
    }
 ]
