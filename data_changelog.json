@@ -1,5 +1,10 @@
 [
    {
+      "tanggal":"12/04/2020",
+      "versi":"v1.2",
+      "deskripsi":"* Penambahan deteksi rumah sakit terdekat"
+   },
+   {
       "tanggal":"23/03/2020",
       "versi":"v1.1",
       "deskripsi":"* Pembaharuan sumber data api"
